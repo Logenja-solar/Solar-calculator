@@ -13,3 +13,15 @@ Built by a Solar Installer in Mombasa learning Python to make solar affordable a
 ## How to run
 ```bash
 python solar_calculator.py
+```
+## Example
+If you use 2000 watts per day in Mombasa:
+- Panels needed: 1 x 550W
+- Battery: 3000 Wh
+- Total Estimate: ~93,000 KES
+
+## About Me
+I'm Logenja-solar - Solar Installer + Python Developer in Mombasa, Kenya.
+Building tools for solar, automation and smart energy for coastal homes and businesses.
+
+Follow me for more projects!
